@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # news-microservice
 NodeJS news-microservice
 
@@ -58,3 +59,7 @@ Install Docker Compose
    ```sh
 https://docs.docker.com/compose/install/
 ```
+=======
+# user-login-microservice
+Full user management login interface
+>>>>>>> dd75c2290e5db00dc986bb8e2d47fd1d83288f1a
