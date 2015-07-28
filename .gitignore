@@ -1,0 +1,12 @@
+# Files #
+########
+1
+<F11>
+
+# Folders #
+###########
+node_modules
+
+# Logs #
+########
+*.log
